@@ -6,6 +6,8 @@ public class Main
     {
         int moneyAmount = 18;
 
+        // Сайт находится в разработке!
+
         int cappucinoPrice = 180;
         int lattePrise = 120;
         int espressoPrice = 80;
