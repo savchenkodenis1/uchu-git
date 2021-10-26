@@ -1,6 +1,6 @@
 import java.sql.SQLOutput;
 
-public class Main
+public class Main // Ещё комментарии!!!
 {
     public static void main(String[] args)
     {
@@ -12,6 +12,7 @@ public class Main
         int lattePrise = 120;
         int espressoPrice = 80;
         int стоимостьВоды = 20;
+        int стоимостьКолы = 100;
 
         boolean xernya = false;
 
@@ -20,10 +21,6 @@ public class Main
         Boolean денегДостаточноДляКапучино = moneyAmount >= cappucinoPrice;
 
         if (денегДостаточноДляКапучино && xernya)
-        {
-            System.out.println("Вы можете купить капучино");
-            canBuyAnything = true;
-        }
 
         if (moneyAmount >= lattePrise && xernya == true)
         {
@@ -39,11 +36,11 @@ public class Main
 
         if (moneyAmount >= стоимостьВоды)
         {
-            System.out.println("Вы можете купить воду");
+            System.out.println("Вы можете купить воду и ничего");
             canBuyAnything = true;
         }
 
-        if (!canBuyAnything)
+        if (!canBuyAnything) // Ещё комментарий!
         {
             System.out.println("Недостаточно средств!");
         }
