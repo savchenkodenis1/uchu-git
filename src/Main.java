@@ -7,6 +7,7 @@ public class Main // Ещё комментарии!!!
         int moneyAmount = 18;
         // Выберите пункт доставки
         // Сайт находится в разработке!
+        // Выберите пункт доставки:
 
         int cappucinoPrice = 180;
         int espressoPrice = 200;
