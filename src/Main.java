@@ -12,7 +12,7 @@ public class Main // Ещё комментарии!!!
         int espressoPrice = 200;
         int lattePrise = 120;
         int стоимостьВоды = 20;
-        int стоимостьКолы = 100;
+
 
         boolean xernya = false;
 
