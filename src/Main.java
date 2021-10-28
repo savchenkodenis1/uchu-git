@@ -10,7 +10,7 @@ public class Main // Ещё комментарии!!!
 
         int cappucinoPrice = 180;
         int lattePrise = 120;
-        int espressoPrice = 80;
+        int espressoPrice = 13;
         int стоимостьВоды = 20;
         int стоимостьКолы = 100;
 
