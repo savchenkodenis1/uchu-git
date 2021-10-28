@@ -8,6 +8,7 @@ public class Main // Ещё комментарии!!!
         // Выберите пункт доставки
         // Сайт находится в разработке!
         // Выберите пункт доставки:
+        // New button
 
         int cappucinoPrice = 180;
         int espressoPrice = 200;
