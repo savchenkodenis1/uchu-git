@@ -5,7 +5,7 @@ public class Main // Ещё комментарии!!!
     public static void main(String[] args)
     {
         int moneyAmount = 18;
-
+        // Выберите пункт доставки
         // Сайт находится в разработке!
 
         int cappucinoPrice = 180;
