@@ -10,6 +10,7 @@ public class Main // Ещё комментарии!!!
         // Выберите пункт доставки:
         // New button
         // Cancel
+        // Удалил скрипты
 
         int cappucinoPrice = 180;
         int espressoPrice = 200;
