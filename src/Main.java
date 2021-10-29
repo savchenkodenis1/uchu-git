@@ -9,6 +9,7 @@ public class Main // Ещё комментарии!!!
         // Сайт находится в разработке!
         // Выберите пункт доставки:
         // New button
+        // Cancel
 
         int cappucinoPrice = 180;
         int espressoPrice = 200;
